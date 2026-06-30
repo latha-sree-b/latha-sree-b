@@ -144,7 +144,7 @@ Developed a full-stack e-commerce web application with product browsing, filteri
 
 📧 Email: **[lathasree1405@gmail.com](mailto:lathasree1405@gmail.com)**
 💼 LinkedIn: **[https://github.com/latha-sree-b](https://www.linkedin.com/in/latha-sree-ba809226b/)**
-💻 GitHub: **[https://github.com/](https://github.com/latha-sree-b)**
+💻 GitHub: **[https://github.com/latha-sree-b](https://github.com/latha-sree-b)**
 
 ---
 
