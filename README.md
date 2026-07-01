@@ -127,7 +127,7 @@ Developed a full-stack e-commerce web application with product browsing, filteri
 * Implemented ML models using Python
 * Worked on predictive analytics workflows
 
----
+----
 
 ## 🏆 Certifications
 
