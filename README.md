@@ -24,9 +24,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=latha-sree-b&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
-
-</div>
 
 ---
 
@@ -190,9 +187,9 @@ Developed a database-driven e-commerce application for browsing products and man
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2 >🎓 Education</h2>
 
-<div align="center">
+<div >
 
 **Bachelor of Technology**
 
@@ -219,7 +216,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 | Cybersecurity | Cisco Networking Academy |
 | Artificial Intelligence & Agile | Infosys |
 | Artificial Intelligence Internship | SkillDzire |
-| NCC India – C Certificate | NCC |
 
 </div>
 
