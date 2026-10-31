@@ -24,6 +24,9 @@
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=latha-sree-b&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+
+</div>
 
 ---
 
@@ -187,9 +190,9 @@ Developed a database-driven e-commerce application for browsing products and man
 
 ---
 
-<h2 >🎓 Education</h2>
+<h2 align="center">🎓 Education</h2>
 
-<div >
+<div align="center">
 
 **Bachelor of Technology**
 
@@ -216,6 +219,7 @@ Visvesvaraya Technological University (VTU), Belagavi
 | Cybersecurity | Cisco Networking Academy |
 | Artificial Intelligence & Agile | Infosys |
 | Artificial Intelligence Internship | SkillDzire |
+| NCC India – C Certificate | NCC |
 
 </div>
 
@@ -237,6 +241,16 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=latha-sree-b&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -247,9 +261,9 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<h2 >🎯 Current Focus</h2>
+<h2 align="center">🎯 Current Focus</h2>
 
-<div >
+<div align="center">
 
 ☕ Mastering Java and Object-Oriented Programming
 
