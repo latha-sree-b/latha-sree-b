@@ -241,16 +241,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=latha-sree-b&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -261,9 +251,9 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 >🎯 Current Focus</h2>
 
-<div align="center">
+<div >
 
 ☕ Mastering Java and Object-Oriented Programming
 
