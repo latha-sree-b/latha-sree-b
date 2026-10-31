@@ -1,147 +1,177 @@
  <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=200&section=header&text=Latha%20Sree&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Java%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=17" width="100%"/>
+<!-- ANIMATED HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Latha%20Sree&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Java%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- TYPING ANIMATION -->
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Java+Developer;Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React;Turning+Ideas+Into+Real+World+Solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+World+Solutions" alt="Typing SVG"/>
 </a>
 
-<p>
+<br/>
+
 <a href="https://github.com/latha-sree-b">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:lathasree1405@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/latha-sree-ba809226b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=latha-sree-b&style=flat-square&color=7C3AED)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=latha-sree-b&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-Hello! I'm **Latha Sree**, a Computer Science enthusiast with a B.Tech background in Artificial Intelligence and Data Science.
+Hello! I'm **Latha Sree**, a B.Tech graduate in Artificial Intelligence and Data Science from S J C Institute of Technology, affiliated with Visvesvaraya Technological University.
 
-I focus on building scalable, efficient, and user-friendly software applications using Java and modern web technologies.
+I'm passionate about software development and building scalable, efficient, and user-friendly applications.
 
-- 💻 Interested in **Full-Stack Development and Software Engineering**
-- ☕ Focused on **Java, OOP, DSA and Backend Development**
-- 🌐 Building applications using React, JavaScript and Node.js
-- ⚙️ Learning Spring Boot, REST APIs and database management
+- 💻 Focused on **Full-Stack Development and Software Engineering**
+- ☕ Developing expertise in **Java, OOP, DSA and Spring Boot**
+- 🌐 Building responsive applications using React and JavaScript
+- ⚙️ Interested in backend development, REST APIs and databases
 - 🤖 Background in Artificial Intelligence and Machine Learning
-- 🎯 Working towards becoming a skilled Software Engineer
+- 🎯 Aspiring to become a skilled Software Engineer
 
-> My philosophy: Write clean code, solve real problems, and keep learning.
+<div align="center">
 
-## 🛠️ Technical Skills
+| 🎓 Education | 📊 Academic Performance | 💻 Main Focus |
+|:---:|:---:|:---:|
+| B.Tech AI & DS | 8.8 GPA | Java Development |
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c,mysql" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🛠️ Technical Skills</h2>
 
-### 🍔 UrbanFeast – Food Delivery Application
+<div align="center">
 
-A full-stack food delivery application designed to provide a smooth online food ordering experience.
+<h3>💻 Programming Languages</h3>
 
-**Key Features**
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c"/>
+
+<br/><br/>
+
+<h3>🎨 Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+<br/><br/>
+
+<h3>⚙️ Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+<br/><br/>
+
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<br/><br/>
+
+<h3>🔧 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
+
+<br/><br/>
+
+<h3>📚 Core Concepts</h3>
+
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-DB2777?style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<h3>🍔 1. UrbanFeast – Food Delivery Application</h3>
+
+A full-stack food delivery application that provides users with a seamless online food ordering experience.
+
+**Key Features:**
 - User authentication and authorization
 - Restaurant and menu management
 - Shopping cart and order processing
-- Online payment integration
+- Secure online payment integration
 - Order tracking and admin dashboard
 
-**Technologies:** React.js · Node.js · Express.js · MongoDB
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
-[View Project](https://github.com/latha-sree-b/Food-Delivery)
-
-### 🧠 Hybrid Neural Network for Depression Screening
-
-Developed a deep learning-based screening solution using a hybrid CNN-LSTM architecture.
-
-**Key Features**
-- Data preprocessing and feature engineering
-- Hybrid deep learning architecture
-- Model training and evaluation
-- Performance comparison using evaluation metrics
-
-**Technologies:** Python · TensorFlow · CNN · LSTM
-
-### 🔢 Handwritten Digit Recognition
-
-Developed a machine learning application to recognize handwritten digits using multiple classification algorithms.
-
-**Key Features**
-- Image preprocessing
-- SVM and MLP classification
-- Model evaluation
-- Confusion matrix analysis
-
-**Technologies:** Python · Scikit-learn · Machine Learning
-
-### 🛒 Online Shopping System
-
-A database-driven e-commerce application for browsing products and managing shopping carts.
-
-**Key Features**
-- Product browsing and filtering
-- Shopping cart management
-- Responsive user interface
-- Database integration
-
-**Technologies:** HTML · CSS · JavaScript · SQL
+🔗 [View Source Code](https://github.com/latha-sree-b/Food-Delivery)
 
 ---
 
-## 💼 Professional Experience
+<h3>🧠 2. Hybrid Neural Network for Depression Screening</h3>
+
+Designed a deep learning-based screening solution using a hybrid CNN-LSTM architecture.
+
+**Key Features:**
+- Data preprocessing and feature engineering
+- Hybrid deep learning model development
+- Model training and evaluation
+- Performance comparison using evaluation metrics
+
+**Tech Stack:** Python | TensorFlow | CNN | LSTM
+
+---
+
+<h3>🔢 3. Handwritten Digit Recognition</h3>
+
+Developed a machine learning application to recognize handwritten digits using SVM and MLP classifiers.
+
+**Key Features:**
+- Image preprocessing
+- SVM and MLP classification
+- Model training and validation
+- Confusion matrix analysis
+
+**Tech Stack:** Python | Scikit-learn | Machine Learning
+
+---
+
+<h3>🛒 4. Online Shopping System</h3>
+
+Developed a database-driven e-commerce application for browsing products and managing shopping carts.
+
+**Key Features:**
+- Product browsing and filtering
+- Shopping cart management
+- User-friendly interface
+- Database integration
+
+**Tech Stack:** HTML | CSS | JavaScript | SQL
+
+---
+
+<h2 align="center">💼 Internship & Professional Experience</h2>
 
 **Full Stack Java Development Trainee — KodNest**
 
 - Learning Java application development and object-oriented programming.
-- Practicing backend development, databases and REST API concepts.
-- Strengthening problem-solving and software development fundamentals.
+- Practicing backend development, database management and REST APIs.
+- Improving problem-solving and software development skills.
 
 **Full Stack Web Development Intern — Prinston Smart Engineers**
 
 - Developed a full-stack food delivery application.
 - Integrated backend APIs and database functionality.
-- Worked on authentication, cart and order management.
+- Implemented authentication, cart and order management features.
 
 **Cybersecurity Virtual Intern — Cisco Networking Academy**
 
@@ -150,8 +180,8 @@ A database-driven e-commerce application for browsing products and managing shop
 
 **Data Science & Analytics Intern — Future Interns**
 
-- Worked on data analysis and visualization.
-- Explored real-world datasets and analytical workflows.
+- Performed data analysis on real-world datasets.
+- Explored data visualization and analytical workflows.
 
 **Artificial Intelligence Intern — SkillDzire**
 
@@ -160,92 +190,121 @@ A database-driven e-commerce application for browsing products and managing shop
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
-**Bachelor of Technology – Artificial Intelligence & Data Science**
+<div align="center">
 
-S J C Institute of Technology  
+**Bachelor of Technology**
+
+Artificial Intelligence & Data Science
+
+**S J C Institute of Technology**
+
 Visvesvaraya Technological University (VTU), Belagavi
 
-- GPA: **8.8 / 10**
-- Graduation: 2026
-
----
-
-## 🏆 Certifications
-
-- Full Stack Web Development – Prinston Smart Engineers
-- Full Stack Web Development – Simplilearn
-- Cybersecurity – Cisco Networking Academy
-- Artificial Intelligence & Agile – Infosys
-- Artificial Intelligence Internship – SkillDzire
-- NCC India – C Certificate
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=latha-sree-b&theme=tokyonight&hide_border=true" width="70%"/>
+**GPA: 8.8 / 10 | 2022 – 2026**
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+<h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/latha-sree-b/latha-sree-b/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+| Certification | Organization |
+|:---|:---|
+| Full Stack Web Development | Prinston Smart Engineers |
+| Full Stack Web Development | Simplilearn |
+| Cybersecurity | Cisco Networking Academy |
+| Artificial Intelligence & Agile | Infosys |
+| Artificial Intelligence Internship | SkillDzire |
+| NCC India – C Certificate | NCC |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<h2 align="center">📊 GitHub Statistics</h2>
 
-- Mastering Java and Object-Oriented Programming
-- Solving Data Structures and Algorithms problems
-- Learning Spring Boot and backend architecture
-- Building real-world full-stack applications
-- Improving Git, GitHub and software engineering practices
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=latha-sree-b&theme=tokyonight&hide_border=true" width="75%"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=latha-sree-b&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/latha-sree-b/latha-sree-b/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+
+☕ Mastering Java and Object-Oriented Programming
+
+🧩 Solving Data Structures and Algorithms problems
+
+⚙️ Learning Spring Boot and backend architecture
+
+🌐 Building real-world full-stack applications
+
+🚀 Improving software engineering and GitHub practices
+
+</div>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
 
 <a href="mailto:lathasree1405@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/latha-sree-b">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Replace with your actual LinkedIn profile URL -->
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/latha-sree-ba809226b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**📧 lathasree1405@gmail.com**
 
-<div align="center">
+<br/>
 
-### ⭐ Keep Learning. Keep Building. Keep Growing.
+*"Keep Learning. Keep Building. Keep Growing."*
 
-*Building today what I want to become tomorrow.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
