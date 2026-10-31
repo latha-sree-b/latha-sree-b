@@ -1,43 +1,43 @@
  <div align="center">
 
-<!-- ========== ANIMATED HEADER ========== -->
+<!-- ANIMATED HEADER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Latha%20Sree&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Java%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- ========== TYPING ANIMATION ========== -->
+<!-- TYPING ANIMATION -->
 
-<a href="https://git.io/typing-svg">
+<a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+World+Solutions" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/latha-sree-b">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:lathasree1405@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/latha-sree-ba809226b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=latha-sree-b&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
 
 </div>
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
-
 <h2 align="center">👩‍💻 About Me</h2>
 
-Hello! I'm **Balappagari Latha Sree**, a B.Tech graduate in Artificial Intelligence and Data Science from S J C Institute of Technology, affiliated with Visvesvaraya Technological University.
+Hello! I'm **Latha Sree**, a B.Tech graduate in Artificial Intelligence and Data Science from S J C Institute of Technology, affiliated with Visvesvaraya Technological University.
 
 I'm passionate about software development and building scalable, efficient, and user-friendly applications.
 
 - 💻 Focused on **Full-Stack Development and Software Engineering**
-- ☕ Developing my expertise in **Java, OOP, DSA and Spring Boot**
+- ☕ Developing expertise in **Java, OOP, DSA and Spring Boot**
 - 🌐 Building responsive applications using React and JavaScript
 - ⚙️ Interested in backend development, REST APIs and databases
 - 🤖 Background in Artificial Intelligence and Machine Learning
@@ -52,8 +52,6 @@ I'm passionate about software development and building scalable, efficient, and 
 </div>
 
 ---
-
-<!-- ========== TECHNICAL SKILLS ========== -->
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
@@ -100,8 +98,6 @@ I'm passionate about software development and building scalable, efficient, and 
 
 ---
 
-<!-- ========== FEATURED PROJECTS ========== -->
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <h3>🍔 1. UrbanFeast – Food Delivery Application</h3>
@@ -109,7 +105,6 @@ I'm passionate about software development and building scalable, efficient, and 
 A full-stack food delivery application that provides users with a seamless online food ordering experience.
 
 **Key Features:**
-
 - User authentication and authorization
 - Restaurant and menu management
 - Shopping cart and order processing
@@ -127,7 +122,6 @@ A full-stack food delivery application that provides users with a seamless onlin
 Designed a deep learning-based screening solution using a hybrid CNN-LSTM architecture.
 
 **Key Features:**
-
 - Data preprocessing and feature engineering
 - Hybrid deep learning model development
 - Model training and evaluation
@@ -142,7 +136,6 @@ Designed a deep learning-based screening solution using a hybrid CNN-LSTM archit
 Developed a machine learning application to recognize handwritten digits using SVM and MLP classifiers.
 
 **Key Features:**
-
 - Image preprocessing
 - SVM and MLP classification
 - Model training and validation
@@ -157,7 +150,6 @@ Developed a machine learning application to recognize handwritten digits using S
 Developed a database-driven e-commerce application for browsing products and managing shopping carts.
 
 **Key Features:**
-
 - Product browsing and filtering
 - Shopping cart management
 - User-friendly interface
@@ -166,8 +158,6 @@ Developed a database-driven e-commerce application for browsing products and man
 **Tech Stack:** HTML | CSS | JavaScript | SQL
 
 ---
-
-<!-- ========== EXPERIENCE ========== -->
 
 <h2 align="center">💼 Internship & Professional Experience</h2>
 
@@ -200,8 +190,6 @@ Developed a database-driven e-commerce application for browsing products and man
 
 ---
 
-<!-- ========== EDUCATION ========== -->
-
 <h2 align="center">🎓 Education</h2>
 
 <div align="center">
@@ -220,8 +208,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<!-- ========== CERTIFICATIONS ========== -->
-
 <h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
@@ -239,8 +225,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<!-- ========== GITHUB STATISTICS ========== -->
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
@@ -257,8 +241,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<!-- ========== CONTRIBUTION GRAPH ========== -->
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
@@ -269,8 +251,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<!-- ========== CONTRIBUTION SNAKE ========== -->
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -280,8 +260,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 </div>
 
 ---
-
-<!-- ========== CURRENT FOCUS ========== -->
 
 <h2 align="center">🎯 Current Focus</h2>
 
@@ -300,8 +278,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 </div>
 
 ---
-
-<!-- ========== CONNECT ========== -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
