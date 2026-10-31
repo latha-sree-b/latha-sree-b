@@ -202,6 +202,7 @@ Visvesvaraya Technological University (VTU), Belagavi
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
+
 ---
 
 ## 🐍 Contribution Snake
