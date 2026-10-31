@@ -217,7 +217,7 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ## 🎯 Currently Focusing On
 
-<div align="center">
+<div >
 
 ☕ Java Programming & Object-Oriented Programming
 
@@ -252,8 +252,6 @@ Visvesvaraya Technological University (VTU), Belagavi
 </a>
 
 <br/><br/>
-
-📧 **lathasree1405@gmail.com**
 
 <br/>
 
