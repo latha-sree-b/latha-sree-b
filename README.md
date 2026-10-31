@@ -1,12 +1,12 @@
  <div align="center">
 
-<!-- ANIMATED HEADER -->
+<!-- ========== ANIMATED HEADER ========== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Latha%20Sree&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Java%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+<!-- ========== TYPING ANIMATION ========== -->
 
-<a href="https://readme-typing-svg.demolab.com">
+<a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+World+Solutions" alt="Typing SVG"/>
 </a>
 
@@ -18,17 +18,19 @@
 <a href="mailto:lathasree1405@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/latha-sree-ba809226b/">
+<a href="YOUR_LINKEDIN_PROFILE_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=latha-sree-b&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=latha-sree-b&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
 
 </div>
 
 ---
+
+<!-- ========== ABOUT ME ========== -->
 
 <h2 align="center">👩‍💻 About Me</h2>
 
@@ -37,11 +39,13 @@ Hello! I'm **Latha Sree**, a B.Tech graduate in Artificial Intelligence and Data
 I'm passionate about software development and building scalable, efficient, and user-friendly applications.
 
 - 💻 Focused on **Full-Stack Development and Software Engineering**
-- ☕ Developing expertise in **Java, OOP, DSA and Spring Boot**
+- ☕ Developing my expertise in **Java, OOP, DSA and Spring Boot**
 - 🌐 Building responsive applications using React and JavaScript
 - ⚙️ Interested in backend development, REST APIs and databases
 - 🤖 Background in Artificial Intelligence and Machine Learning
 - 🎯 Aspiring to become a skilled Software Engineer
+
+<br/>
 
 <div align="center">
 
@@ -53,37 +57,39 @@ I'm passionate about software development and building scalable, efficient, and 
 
 ---
 
+<!-- ========== TECHNICAL SKILLS ========== -->
+
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
 
 <h3>💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
 
 <br/><br/>
 
 <h3>🎨 Frontend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 <br/><br/>
 
 <h3>⚙️ Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
 <br/><br/>
 
 <h3>🗄️ Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 <br/><br/>
 
 <h3>🔧 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
 
 <br/><br/>
 
@@ -97,6 +103,8 @@ I'm passionate about software development and building scalable, efficient, and 
 </div>
 
 ---
+
+<!-- ========== FEATURED PROJECTS ========== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -159,6 +167,8 @@ Developed a database-driven e-commerce application for browsing products and man
 
 ---
 
+<!-- ========== EXPERIENCE ========== -->
+
 <h2 align="center">💼 Internship & Professional Experience</h2>
 
 **Full Stack Java Development Trainee — KodNest**
@@ -190,6 +200,8 @@ Developed a database-driven e-commerce application for browsing products and man
 
 ---
 
+<!-- ========== EDUCATION ========== -->
+
 <h2 align="center">🎓 Education</h2>
 
 <div align="center">
@@ -208,6 +220,8 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
+<!-- ========== CERTIFICATIONS ========== -->
+
 <h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
@@ -225,13 +239,15 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
+<!-- ========== GITHUB STATISTICS ========== -->
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -240,6 +256,8 @@ Visvesvaraya Technological University (VTU), Belagavi
 </div>
 
 ---
+
+<!-- ========== CONTRIBUTION GRAPH ========== -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -251,6 +269,8 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
+<!-- ========== CONTRIBUTION SNAKE ========== -->
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -260,6 +280,8 @@ Visvesvaraya Technological University (VTU), Belagavi
 </div>
 
 ---
+
+<!-- ========== CURRENT FOCUS ========== -->
 
 <h2 align="center">🎯 Current Focus</h2>
 
@@ -279,6 +301,8 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
+<!-- ========== CONNECT ========== -->
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
@@ -291,7 +315,7 @@ Visvesvaraya Technological University (VTU), Belagavi
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/latha-sree-ba809226b/">
+<a href="YOUR_LINKEDIN_PROFILE_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
