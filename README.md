@@ -1,12 +1,8 @@
  <div align="center">
 
-<!-- ========== ANIMATED HEADER ========== -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Latha%20Sree&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Java%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- ========== TYPING ANIMATION ========== -->
-
-<a href="https://git.io/typing-svg">
+<a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Java+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+World+Solutions" alt="Typing SVG"/>
 </a>
 
@@ -15,11 +11,9 @@
 <a href="https://github.com/latha-sree-b">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:lathasree1405@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/latha-sree-ba809226b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,250 +22,196 @@
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
+## 👩‍💻 About Me
 
-<h2 align="center">👩‍💻 About Me</h2>
+Hello! I'm **Latha Sree**, a B.Tech graduate in Artificial Intelligence and Data Science from **S J C Institute of Technology**, affiliated with Visvesvaraya Technological University.
 
-Hello! I'm **Latha Sree**, a B.Tech graduate in Artificial Intelligence and Data Science from S J C Institute of Technology, affiliated with Visvesvaraya Technological University.
+I'm passionate about software development, problem-solving, and building scalable web applications.
 
-I'm passionate about software development and building scalable, efficient, and user-friendly applications.
-
-- 💻 Focused on **Full-Stack Development and Software Engineering**
-- ☕ Developing my expertise in **Java, OOP, DSA and Spring Boot**
+- 💻 Focused on **Full-Stack Java Development**
+- ☕ Learning and practicing **Java, OOP, DSA and Spring Boot**
 - 🌐 Building responsive applications using React and JavaScript
-- ⚙️ Interested in backend development, REST APIs and databases
-- 🤖 Background in Artificial Intelligence and Machine Learning
-- 🎯 Aspiring to become a skilled Software Engineer
+- ⚙️ Interested in backend development, REST APIs and database management
+- 🤖 Have an academic background in Artificial Intelligence and Data Science
+- 🚀 Continuously improving my software engineering skills
 
 <div align="center">
 
-| 🎓 Education | 📊 Academic Performance | 💻 Main Focus |
+| 🎓 Education | 📊 GPA | 💻 Career Focus |
 |:---:|:---:|:---:|
-| B.Tech AI & DS | 8.8 GPA | Java Development |
+| B.Tech AI & DS | 8.8 / 10 | Full-Stack Development |
 
 </div>
 
 ---
 
-<!-- ========== TECHNICAL SKILLS ========== -->
+## ⚡ Technology Stack
 
-<h2 align="center">🛠️ Technical Skills</h2>
+### 🧠 Core Expertise
+
+| Domain | Technologies |
+|:---|:---|
+| **Programming Languages** | Java, Python, JavaScript, C, C++ |
+| **Frontend Development** | HTML5, CSS3, JavaScript, React.js |
+| **Backend Development** | Java, Spring Boot, Node.js, Express.js |
+| **Database Management** | MySQL, MongoDB, SQL |
+| **Core Computer Science** | OOP, Data Structures & Algorithms, DBMS |
+| **API Development** | REST APIs, JSON, Postman |
+| **AI & Machine Learning** | Machine Learning, Deep Learning, TensorFlow |
+| **Developer Tools** | Git, GitHub, VS Code, IntelliJ IDEA |
 
 <div align="center">
 
-<h3>💻 Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c"/>
-
-<br/><br/>
-
-<h3>🎨 Frontend Development</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-
-<br/><br/>
-
-<h3>⚙️ Backend Development</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-
-<br/><br/>
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-<br/><br/>
-
-<h3>🔧 Tools & Platforms</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea"/>
-
-<br/><br/>
-
-<h3>📚 Core Concepts</h3>
-
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ========== FEATURED PROJECTS ========== -->
+## 🚀 Featured Projects
 
-<h2 align="center">🚀 Featured Projects</h2>
+### 🍔 1. UrbanFeast – Food Delivery Application
 
-<h3>🍔 1. UrbanFeast – Food Delivery Application</h3>
+A full-stack food delivery application designed to provide users with a seamless online food ordering experience.
 
-A full-stack food delivery application that provides users with a seamless online food ordering experience.
-
-**Key Features:**
-
+**Key Features**
 - User authentication and authorization
 - Restaurant and menu management
-- Shopping cart and order processing
-- Secure online payment integration
-- Order tracking and admin dashboard
+- Shopping cart functionality
+- Online payment integration
+- Order processing and tracking
+- Admin dashboard
 
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB
+**Technologies:** React.js | Node.js | Express.js | MongoDB
 
-🔗 [View Source Code](https://github.com/latha-sree-b/Food-Delivery)
+🔗 **[View Project on GitHub](https://github.com/latha-sree-b/Food-Delivery)**
 
 ---
 
-<h3>🧠 2. Hybrid Neural Network for Depression Screening</h3>
+### 🧠 2. Hybrid Neural Network for Depression Screening
 
-Designed a deep learning-based screening solution using a hybrid CNN-LSTM architecture.
+Developed a deep learning-based screening solution using a hybrid CNN-LSTM architecture.
 
-**Key Features:**
-
+**Key Features**
 - Data preprocessing and feature engineering
 - Hybrid deep learning model development
 - Model training and evaluation
-- Performance comparison using evaluation metrics
+- Performance analysis
 
-**Tech Stack:** Python | TensorFlow | CNN | LSTM
+**Technologies:** Python | TensorFlow | CNN | LSTM
 
 ---
 
-<h3>🔢 3. Handwritten Digit Recognition</h3>
+### 🔢 3. Handwritten Digit Recognition
 
-Developed a machine learning application to recognize handwritten digits using SVM and MLP classifiers.
+Developed a machine learning model to recognize handwritten digits using Support Vector Machine and Multi-Layer Perceptron classifiers.
 
-**Key Features:**
-
+**Key Features**
 - Image preprocessing
 - SVM and MLP classification
-- Model training and validation
-- Confusion matrix analysis
+- Model training and testing
+- Model performance evaluation
 
-**Tech Stack:** Python | Scikit-learn | Machine Learning
+**Technologies:** Python | Scikit-learn | Machine Learning
 
 ---
 
-<h3>🛒 4. Online Shopping System</h3>
+### 🛒 4. Online Shopping System
 
-Developed a database-driven e-commerce application for browsing products and managing shopping carts.
+Developed a database-driven shopping application for browsing products and managing shopping cart operations.
 
-**Key Features:**
-
-- Product browsing and filtering
+**Key Features**
+- Product browsing
 - Shopping cart management
 - User-friendly interface
 - Database integration
 
-**Tech Stack:** HTML | CSS | JavaScript | SQL
+**Technologies:** HTML | CSS | JavaScript | SQL
 
 ---
 
-<!-- ========== EXPERIENCE ========== -->
+## 💼 Internship & Professional Experience
 
-<h2 align="center">💼 Internship & Professional Experience</h2>
+### Full Stack Java Development Trainee — KodNest
+*2026 – Present*
 
-**Full Stack Java Development Trainee — KodNest**
+- Learning Java programming and object-oriented concepts.
+- Practicing backend development and database management.
+- Working with Spring Boot and REST API concepts.
+- Improving problem-solving and coding skills.
 
-- Learning Java application development and object-oriented programming.
-- Practicing backend development, database management and REST APIs.
-- Improving problem-solving and software development skills.
+### Full Stack Web Development Intern — Prinston Smart Engineers
+*January 2026 – May 2026*
 
-**Full Stack Web Development Intern — Prinston Smart Engineers**
-
-- Developed a full-stack food delivery application.
-- Integrated backend APIs and database functionality.
+- Worked on full-stack web application development.
+- Developed the UrbanFeast food delivery application.
+- Integrated frontend components with backend APIs.
 - Implemented authentication, cart and order management features.
 
-**Cybersecurity Virtual Intern — Cisco Networking Academy**
+### Cybersecurity Virtual Intern — Cisco Networking Academy
+*August 2025*
 
-- Learned network security fundamentals.
-- Explored cybersecurity threats and mitigation techniques.
+- Learned cybersecurity fundamentals.
+- Explored network security concepts and threats.
 
-**Data Science & Analytics Intern — Future Interns**
+### Data Analytics Trainee — Edunet Foundation / AICTE SkillsBuild
+*January 2025 – February 2025*
 
-- Performed data analysis on real-world datasets.
-- Explored data visualization and analytical workflows.
-
-**Artificial Intelligence Intern — SkillDzire**
-
-- Worked with Python-based machine learning concepts.
-- Explored predictive analytics workflows.
+- Completed a six-week cybersecurity learning program.
 
 ---
 
-<!-- ========== EDUCATION ========== -->
+## 🎓 Education
 
-<h2 align="center">🎓 Education</h2>
+**Bachelor of Technology – Artificial Intelligence & Data Science**
 
-<div align="center">
-
-**Bachelor of Technology**
-
-Artificial Intelligence & Data Science
-
-**S J C Institute of Technology**
-
+S J C Institute of Technology  
 Visvesvaraya Technological University (VTU), Belagavi
 
-**GPA: 8.8 / 10 | 2022 – 2026**
-
-</div>
-
----
-
-<!-- ========== CERTIFICATIONS ========== -->
-
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-
-| Certification | Organization |
-|:---|:---|
-| Full Stack Web Development | Prinston Smart Engineers |
-| Full Stack Web Development | Simplilearn |
-| Cybersecurity | Cisco Networking Academy |
-| Artificial Intelligence & Agile | Infosys |
-| Artificial Intelligence Internship | SkillDzire |
-| NCC India – C Certificate | NCC |
-
-</div>
+- **Duration:** 2022 – 2026
+- **GPA:** 8.8 / 10
 
 ---
 
-<!-- ========== GITHUB STATISTICS ========== -->
+## 🏆 Certifications & Learning
 
-<h2 align="center">📊 GitHub Statistics</h2>
+- Cisco Networking Academy – Cybersecurity Virtual Internship
+- Edunet Foundation / AICTE SkillsBuild – Cybersecurity Program
+- Full Stack Web Development – Internship Training
+- Artificial Intelligence and Machine Learning – Academic Projects
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=latha-sree-b&theme=tokyonight&hide_border=true" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=latha-sree-b&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<!-- ========== CONTRIBUTION GRAPH ========== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=latha-sree-b&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-<!-- ========== CONTRIBUTION SNAKE ========== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -281,29 +221,27 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 ---
 
-<!-- ========== CURRENT FOCUS ========== -->
-
-<h2 align="center">🎯 Current Focus</h2>
+## 🎯 Currently Focusing On
 
 <div align="center">
 
-☕ Mastering Java and Object-Oriented Programming
+☕ Java Programming & Object-Oriented Programming
 
-🧩 Solving Data Structures and Algorithms problems
+🧩 Data Structures and Algorithms
 
-⚙️ Learning Spring Boot and backend architecture
+⚙️ Spring Boot & Backend Development
 
-🌐 Building real-world full-stack applications
+🌐 Full-Stack Application Development
 
-🚀 Improving software engineering and GitHub practices
+🗄️ SQL & Database Management
+
+🚀 Building Real-World Software Projects
 
 </div>
 
 ---
 
-<!-- ========== CONNECT ========== -->
-
-<h2 align="center">🤝 Let's Connect</h2>
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -321,7 +259,7 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 <br/><br/>
 
-**📧 lathasree1405@gmail.com**
+📧 **lathasree1405@gmail.com**
 
 <br/>
 
