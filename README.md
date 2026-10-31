@@ -1,32 +1,46 @@
 
-<h1 align="center">Hi 👋, I'm Latha Sree</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 Full-Stack Developer | Java Developer | AI & Data Science Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Latha%20Sree&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18" width="100%" />
 
-<p align="center">
-  Building scalable web applications and intelligent software solutions.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;AI+%26+Machine+Learning+Explorer;Building+Real-World+Applications" alt="Typing SVG" />
+</a>
+
+<p>
+<a href="https://github.com/latha-sree-b">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:lathasree1405@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Node.js+Developer;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
 ## 💫 About Me
 
-🎓 B.Tech in Artificial Intelligence and Data Science  
-🏫 S J C Institute of Technology, VTU  
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+🎓 B.Tech in Artificial Intelligence and Data Science
+
+🏫 S J C Institute of Technology, VTU
+
 📊 GPA: 8.8/10
 
 - 💻 Passionate about Full-Stack Development and Software Engineering
-- 🌐 Experienced in building responsive and user-friendly web applications
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
+- 🌐 Interested in building scalable and user-friendly web applications
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
 - 🧠 Practicing Data Structures and Algorithms using Java
-- 🌱 Currently learning Java, Spring Boot, and advanced web development
+- 🌱 Currently learning Java, Spring Boot, and React
 - 🎯 Aspiring Software Engineer and Full-Stack Developer
+
+<br clear="right"/>
 
 ---
 
@@ -34,80 +48,111 @@
 
 - 🟢 Strengthening Java and Object-Oriented Programming
 - 🟢 Building backend applications using Spring Boot
-- 🟢 Developing responsive interfaces with React
+- 🟢 Developing responsive interfaces using React
 - 🟢 Practicing DSA and problem-solving
-- 🟢 Building production-ready full-stack applications
+- 🟢 Building real-world full-stack applications
 
 ---
 
 ## ⚡ Technology Stack
 
+<div align="center">
+
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
 
 ### 🌐 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
 ### 🗄️ Databases & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 
 ### 🤖 AI & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍔 UrbanFeast — Food Delivery Application
+<table>
+<tr>
+<td width="50%">
 
-A full-stack food delivery application featuring restaurant browsing, cart management, authentication, online payments, and order tracking.
+<h3 align="center">🍔 UrbanFeast</h3>
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+<div align="center">
+<img src="https://img.shields.io/badge/Full--Stack-Food%20Delivery-FF6B35?style=flat-square" />
+</div>
 
-### 🧠 Hybrid Neural Network for Depression Screening
+A full-stack food delivery application featuring restaurant browsing, user authentication, cart management, online payments, and order tracking.
 
-Developed a deep learning model using a hybrid CNN-LSTM architecture for depression screening, combining signal processing and machine learning techniques.
+**Technologies:** React.js • Node.js • Express.js • MongoDB
 
-**Tech Stack:** Python • TensorFlow • Deep Learning
+</td>
+<td width="50%">
 
-### 🔢 Handwritten Digit Recognition
+<h3 align="center">🧠 Depression Screening</h3>
 
-Built a machine learning application to recognize handwritten digits using Support Vector Machine and Multi-Layer Perceptron classifiers.
+<div align="center">
+<img src="https://img.shields.io/badge/AI-Deep%20Learning-7B61FF?style=flat-square" />
+</div>
 
-**Tech Stack:** Python • Scikit-learn • Machine Learning
+A hybrid CNN-LSTM deep learning model for depression screening, combining signal processing and machine learning techniques.
 
-### 🛒 Online Shopping System
+**Technologies:** Python • TensorFlow • Deep Learning
 
-Developed an e-commerce application with product browsing, search, filtering, and shopping cart functionality.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Tech Stack:** HTML • CSS • JavaScript • DBMS
+<h3 align="center">🔢 Handwritten Digit Recognition</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-Classification-00A86B?style=flat-square" />
+</div>
+
+A machine learning application that recognizes handwritten digits using Support Vector Machine and Multi-Layer Perceptron classifiers.
+
+**Technologies:** Python • Scikit-learn • Machine Learning
+
+</td>
+<td width="50%">
+
+<h3 align="center">🛒 Online Shopping System</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Web%20Development-E--Commerce-007ACC?style=flat-square" />
+</div>
+
+An e-commerce application with product browsing, search, filtering, and shopping cart functionality.
+
+**Technologies:** HTML • CSS • JavaScript • DBMS
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Internship Experience
 
-- **Full Stack Web Development Intern** — Prinston Smart Engineers
-- **Cybersecurity Virtual Intern** — Cisco Networking Academy
-- **Data Science & Analytics Intern** — Future Interns
-- **Artificial Intelligence Intern** — SkillDzire
+| Role | Organization |
+|---|---|
+| Full Stack Web Development Intern | Prinston Smart Engineers |
+| Cybersecurity Virtual Intern | Cisco Networking Academy |
+| Data Science & Analytics Intern | Future Interns |
+| Artificial Intelligence Intern | SkillDzire |
 
 ---
 
@@ -122,38 +167,71 @@ Developed an e-commerce application with product browsing, search, filtering, an
 
 ---
 
-## 🔥 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latha-sree-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=latha-sree-b&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Currently Learning
 
-<p align="left">
-  <a href="mailto:lathasree1405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/latha-sree-b">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Advanced%20Concepts-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-007ACC?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/React-Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+</div>
 
 ---
 
-<p align="center">
-  💡 Keep Learning • Keep Building • Keep Growing
-</p>
+## 🏆 Professional Strengths
+
+- ✅ Java Programming and Object-Oriented Programming
+- ✅ Full-Stack Web Development
+- ✅ REST API Development
+- ✅ Database Design and Management
+- ✅ Problem Solving and Logical Thinking
+- ✅ Continuous Learning and Adaptability
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:lathasree1405@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/latha-sree-b">
+<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Keep Learning. Keep Building. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+
+</div>
