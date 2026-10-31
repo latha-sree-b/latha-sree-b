@@ -53,12 +53,12 @@ I'm passionate about software development, problem-solving, and building scalabl
 |:---|:---|
 | **Programming Languages** | Java, Python, JavaScript, C, C++ |
 | **Frontend Development** | HTML5, CSS3, JavaScript, React.js |
-| **Backend Development** | Java, Spring Boot, Node.js, Express.js |
+| **Backend Development** | Java, Node.js, Express.js |
 | **Database Management** | MySQL, MongoDB, SQL |
 | **Core Computer Science** | OOP, Data Structures & Algorithms, DBMS |
-| **API Development** | REST APIs, JSON, Postman |
+| **API Development** | REST APIs, JSON |
 | **AI & Machine Learning** | Machine Learning, Deep Learning, TensorFlow |
-| **Developer Tools** | Git, GitHub, VS Code, IntelliJ IDEA |
+| **Developer Tools** | Git, GitHub, VS Code |
 
 <div align="center">
 
