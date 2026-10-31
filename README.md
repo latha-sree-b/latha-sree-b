@@ -197,16 +197,11 @@ Visvesvaraya Technological University (VTU), Belagavi
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=latha-sree-b&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
