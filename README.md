@@ -1,151 +1,159 @@
-# Hi, I'm Latha Sree 👋
 
-🎓 Final-year B.Tech student in **Artificial Intelligence & Data Science** at **S J C Institute of Technology (VTU)** with an **8.8 GPA**.
+<h1 align="center">Hi 👋, I'm Latha Sree</h1>
 
-I am passionate about building scalable web applications and AI-powered solutions. My interests span **Full-Stack Development, Artificial Intelligence, Machine Learning, Data Science, and Problem Solving**. I enjoy transforming ideas into impactful real-world products.
+<h3 align="center">
+  🚀 Full-Stack Developer | Java Developer | AI & Data Science Enthusiast
+</h3>
 
----
+<p align="center">
+  Building scalable web applications and intelligent software solutions.
+</p>
 
-## 🚀 About Me
-
-* 💻 Strong foundation in **Software Development & Full-Stack Web Development**
-* 🌐 Skilled in building responsive and user-friendly web applications
-* 🤖 Interested in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**
-* 📊 Passionate about **Data Analytics and Visualization**
-* 🌱 Currently improving **DSA, System Design, and Cloud Skills**
-* 🎯 Actively seeking opportunities as a **Software Engineer / Full Stack Developer / AI Engineer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Java+%26+Spring+Boot+Enthusiast;React+%26+Node.js+Developer;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-### Programming Languages
+🎓 B.Tech in Artificial Intelligence and Data Science  
+🏫 S J C Institute of Technology, VTU  
+📊 GPA: 8.8/10
 
-Python | Java | JavaScript | C++ | C | SQL
-
-### Frontend
-
-React.js | HTML5 | CSS3
-
-### Backend
-
-Node.js | Express.js | REST APIs
-
-### Databases
-
-MySQL | MongoDB
-
-### Tools & Platforms
-
-Git | GitHub | VS Code | Postman
+- 💻 Passionate about Full-Stack Development and Software Engineering
+- 🌐 Experienced in building responsive and user-friendly web applications
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning
+- 🧠 Practicing Data Structures and Algorithms using Java
+- 🌱 Currently learning Java, Spring Boot, and advanced web development
+- 🎯 Aspiring Software Engineer and Full-Stack Developer
 
 ---
 
-## 📌 Featured Projects
+## 🎯 Current Focus
 
-### 🍔 UrbanFeast – Online Food Delivery Application
-
-Developed a full-stack food delivery web application that enables users to browse restaurants, place orders, track deliveries, and make secure online payments.
-
-#### Key Features:
-
-* User authentication & authorization
-* Restaurant management dashboard
-* Shopping cart & order management
-* Secure payment workflow
-* Real-time order tracking
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+- 🟢 Strengthening Java and Object-Oriented Programming
+- 🟢 Building backend applications using Spring Boot
+- 🟢 Developing responsive interfaces with React
+- 🟢 Practicing DSA and problem-solving
+- 🟢 Building production-ready full-stack applications
 
 ---
+
+## ⚡ Technology Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 UrbanFeast — Food Delivery Application
+
+A full-stack food delivery application featuring restaurant browsing, cart management, authentication, online payments, and order tracking.
+
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
 ### 🧠 Hybrid Neural Network for Depression Screening
 
-Designed a healthcare AI solution for depression screening using a hybrid **CNN–LSTM architecture** to analyze input data and improve prediction accuracy.
+Developed a deep learning model using a hybrid CNN-LSTM architecture for depression screening, combining signal processing and machine learning techniques.
 
-#### Key Contributions:
-
-* Data preprocessing and feature engineering
-* Deep learning model training
-* Performance evaluation and optimization
-* Accuracy comparison using evaluation metrics
-
-**Tech Stack:** Python, TensorFlow, Deep Learning
-
----
+**Tech Stack:** Python • TensorFlow • Deep Learning
 
 ### 🔢 Handwritten Digit Recognition
 
-Built a machine learning model to classify handwritten digits using **SVM** and **MLP classifiers**.
+Built a machine learning application to recognize handwritten digits using Support Vector Machine and Multi-Layer Perceptron classifiers.
 
-#### Key Features:
-
-* Image preprocessing
-* Model training and validation
-* Confusion matrix analysis
-* Accuracy comparison between algorithms
-
-**Tech Stack:** Python, Scikit-learn, Machine Learning
-
----
+**Tech Stack:** Python • Scikit-learn • Machine Learning
 
 ### 🛒 Online Shopping System
 
-Developed a full-stack e-commerce web application with product browsing, filtering, and cart management features.
+Developed an e-commerce application with product browsing, search, filtering, and shopping cart functionality.
 
-#### Key Features:
-
-* Product search & filtering
-* Shopping cart system
-* User-friendly UI
-* Database-driven product management
-
-**Tech Stack:** HTML, CSS, JavaScript, DBMS
+**Tech Stack:** HTML • CSS • JavaScript • DBMS
 
 ---
 
 ## 💼 Internship Experience
 
-### Full Stack Web Development Intern — Prinston Smart Engineers
+- **Full Stack Web Development Intern** — Prinston Smart Engineers
+- **Cybersecurity Virtual Intern** — Cisco Networking Academy
+- **Data Science & Analytics Intern** — Future Interns
+- **Artificial Intelligence Intern** — SkillDzire
 
-* Developed and maintained full-stack web applications
-* Integrated APIs and databases for enhanced functionality
-* Improved application performance and user experience
-
-### Cybersecurity Virtual Intern — Cisco Networking Academy
-
-* Learned network security fundamentals
-* Studied cyber threats and mitigation techniques
-
-### Data Science & Analytics Intern — Future Interns
-
-* Performed data analysis on real-world datasets
-* Built dashboards and visual reports
-
-### Artificial Intelligence Intern — SkillDzire
-
-* Implemented ML models using Python
-* Worked on predictive analytics workflows
-
-----
+---
 
 ## 🏆 Certifications
 
-* Full Stack Web Development — Prinston Smart Engineers
-* Full Stack Web Development — Simplilearn
-* Cybersecurity — Cisco Networking Academy
-* Artificial Intelligence & Agile — Infosys
-* AI Internship — SkillDzire
-* NCC India (C Certificate)
+- Full Stack Web Development — Prinston Smart Engineers
+- Full Stack Web Development — Simplilearn
+- Cybersecurity — Cisco Networking Academy
+- Artificial Intelligence & Agile — Infosys
+- Artificial Intelligence Internship — SkillDzire
+- NCC India — C Certificate
+
+---
+
+## 🔥 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latha-sree-b&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latha-sree-b&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latha-sree-b&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: **[lathasree1405@gmail.com](mailto:lathasree1405@gmail.com)**
-💼 LinkedIn: **[https://github.com/latha-sree-b](https://www.linkedin.com/in/latha-sree-ba809226b/)**
-💻 GitHub: **[https://github.com/latha-sree-b](https://github.com/latha-sree-b)**
+<p align="left">
+  <a href="mailto:lathasree1405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/latha-sree-b">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *“Keep Learning, Keep Building, Keep Growing.”*
+<p align="center">
+  💡 Keep Learning • Keep Building • Keep Growing
+</p>
